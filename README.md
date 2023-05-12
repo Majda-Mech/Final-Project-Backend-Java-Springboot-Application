@@ -28,6 +28,7 @@ Majda Zariouh
 
 If u like to see my Fullstack project, open the link below for my Frontend application. Build with HTML, CSS, JavaScript and React framework.
 https://github.com/Majda-Mech/Final-Project-Frontend-React-JavaScript-Health-Application
+
 For the screen design see link below.
 https://www.figma.com/file/yTWQlYaO6s7czpAqcdAntz/Design-Eindopdracht-Smecht-it?type=design&node-id=0%3A1&t=R6C4fnLYWD2WPqc2-1
 
